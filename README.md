@@ -1,4 +1,4 @@
-# graph-state-quantum-cryptography
+# Graph State Quantum Cryptography
 A Jupyter notebook on the quantum cryptography application of blind quantum computation using graph states
 
 [Become a Sponsor of The Singularity](https://github.com/sponsors/The-Singularity-Research)
